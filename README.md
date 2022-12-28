@@ -2,7 +2,7 @@
 
 <!-- <img align="right" src=".github/image.jpg" width="300"/>  -->
 
-Meu nome é Thiago Peluque, tenho 36 anos, moro em Leme-SP, sou bacharel em Ciência da Computação e atualmente sou desenvolvedor **Frontend** Magento na Madeiranit.
+Meu nome é Thiago Peluque, tenho 36 anos, moro em Leme-SP, sou bacharel em Ciência da Computação e atualmente sou desenvolvedor **Frontend** Magento.
 
 Apaixonado pela área de desenvolvimento, eterno aluno e atento a novas tecnologias, iniciei a alguns anos minha carreira como desenvolvedor e meu foco, investimento e paixão estão nos frameworks Web ReactJS e Mobile React Native.
 
