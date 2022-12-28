@@ -1,6 +1,6 @@
 # E aí Galera? 🍻
 
-<!-- <img align="right" src=".github/image.jpg" width="300"/>  -->
+<img align="right" src="image.jpg" width="300"/>
 
 Meu nome é Thiago Peluque, tenho 36 anos, moro em Leme-SP, sou bacharel em Ciência da Computação e atualmente sou desenvolvedor **Frontend** Magento.
 
