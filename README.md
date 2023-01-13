@@ -11,7 +11,7 @@ Apaixonado pela área de desenvolvimento, eterno aluno e atento a novas tecnolog
 ### ✨ Curiosidades
 
 - Fã de Senhor dos Anéis.
-- Gamer e Streamer nas horas vagas
+- Gamer nas horas vagas
 
 ## 📋 Skills
 
