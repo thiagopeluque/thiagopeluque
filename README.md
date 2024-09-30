@@ -2,7 +2,7 @@
 
 <img align="right" src="image.jpg" width="300"/>
 
-Meu nome é Thiago Peluque, tenho 37 anos, moro em Leme-SP, sou bacharel em Ciência da Computação e atualmente sou desenvolvedor **Frontend** Magento.
+Meu nome é Thiago Peluque, tenho 37 anos, moro em Leme-SP, sou bacharel em Ciência da Computação e atualmente sou desenvolvedor Web Fullstack.
 
 Apaixonado pela área de desenvolvimento, eterno aluno e atento a novas tecnologias, iniciei a alguns anos minha carreira como desenvolvedor e meu foco, investimento e paixão estão nos frameworks Web ReactJS e Mobile React Native.
 
