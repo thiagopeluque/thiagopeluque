@@ -1,10 +1,17 @@
-# E aí Galera? 🍻
+# 👋 E aí, galera! 🍻
 
 <img align="right" src="image.jpg" width="300"/>
 
-Meu nome é Thiago Peluque, tenho 39 anos, moro em Leme-SP, sou bacharel em Ciência da Computação e atualmente sou desenvolvedor Web Fullstack.
+Meu nome é **Thiago Peluque**, sou bacharel em **Ciência da Computação** e atualmente atuo como **Desenvolvedor Web Fullstack**.
 
-Apaixonado pela área de desenvolvimento, eterno aluno e atento a novas tecnologias, iniciei a alguns anos minha carreira como desenvolvedor e meu foco, investimento e paixão estão nos frameworks Web ReactJS e Mobile React Native.
+💻 Sou apaixonado por desenvolvimento de software, eterno aluno e estou sempre atento a novas tecnologias, ferramentas e boas práticas.
+
+Minha experiência e meus estudos estão principalmente voltados para o ecossistema **JavaScript/TypeScript**, com foco no desenvolvimento de aplicações **Web e Mobile**, especialmente utilizando **React, Next.js, React Native e Node.js**.
+
+> 🚀 Construir, aprender, evoluir e compartilhar.
+
+
+---
 
 <!-- [![Discord Badge](https://img.shields.io/badge/Acesse%20minha%20comunidade%20no%20Discord-7289da?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/JPS2bY6GVy)](https://discord.gg/JPS2bY6GVy) -->
 
@@ -35,5 +42,4 @@ Apaixonado pela área de desenvolvimento, eterno aluno e atento a novas tecnolog
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white&borderRadi)](https://twitch.com/thiagopeluque)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/thiagopeluque)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/thiagopeluque)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-peluque-64594547/)  
-![thiagopeluque github stats](https://github-readme-stats.vercel.app/api?username=thiagopeluque&hide=[%22issues%22]&show_icons=true)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-peluque-64594547/)
